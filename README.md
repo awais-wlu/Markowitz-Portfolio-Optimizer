@@ -28,7 +28,7 @@ This project explores portfolio optimization using a combination of machine lear
 - **Efficient Frontier**: Plotted risk-return tradeoffs of the optimized portfolios.
 - **Portfolio Comparison Graph**: Line chart showing cumulative returns of the optimized portfolios vs. the equal-weight portfolio.
 
-## 🛠 Tools & Libraries
+## Tools & Libraries
 
 - Python
 - Pandas, NumPy
