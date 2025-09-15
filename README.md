@@ -2,12 +2,12 @@
 
 This project explores portfolio optimization using a combination of machine learning (K-Means clustering) and financial optimization techniques. The objective is to create optimized portfolios with higher risk-adjusted returns compared to an equal-weight benchmark.
 
-## 📊 Overview
+## Overview
 
 - **Dataset**: S&P 500 historical stock data from [Kaggle](https://www.kaggle.com/)
 - **Goal**: Compare the performance of optimized portfolios (Minimum Variance and Maximum Sharpe Ratio) against a standard equal-weight portfolio.
 
-## 🧠 Methodology
+## Methodology
 
 1. **Clustering with K-Means**:
    - Stocks were grouped using K-Means clustering to identify different behavior patterns.
@@ -23,7 +23,7 @@ This project explores portfolio optimization using a combination of machine lear
    - Built an **equal-weight portfolio** using all selected stocks.
    - Compared all portfolios’ performance over time.
 
-## 📈 Visualizations
+## Visualizations
 
 - **Efficient Frontier**: Plotted risk-return tradeoffs of the optimized portfolios.
 - **Portfolio Comparison Graph**: Line chart showing cumulative returns of the optimized portfolios vs. the equal-weight portfolio.
@@ -34,8 +34,7 @@ This project explores portfolio optimization using a combination of machine lear
 - Pandas, NumPy
 - Scikit-learn (for K-Means)
 - Matplotlib
-- PyPortfolioOpt (if used)
-- yfinance or other API/Kaggle source for data
+- PyPortfolioOpt
 
 ## ✅ Results
 
