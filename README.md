@@ -36,13 +36,13 @@ This project explores portfolio optimization using a combination of machine lear
 - Matplotlib
 - PyPortfolioOpt
 
-## ✅ Results
+## Results
 
 - The **Maximum Sharpe Ratio portfolio** outperformed the equal-weight benchmark in terms of risk-adjusted return.
 - The **Minimum Variance portfolio** achieved lower volatility but slightly lower returns.
 - Clustering helped diversify the stock selection across sectors and behaviors.
 
-## 📁 Files
+## Files
 
 - `portfolio_optimization.ipynb`: Full code, analysis, and visualizations
 - Supporting plots embedded in notebook
